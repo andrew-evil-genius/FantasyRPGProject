@@ -1,0 +1,39 @@
+Fighter
+-------
+Good Combat
+Excellent Hit Points
+Good Weapon Skills
+Poor Other Skills
+No Thief Abilites
+No Spells
+No Prayers
+
+Thief
+-----
+Medium Combat
+Medium Hit Points
+Medium Weapon Skills
+Good Other Skills
+Good Thief Abilities
+No Spells
+No Prayers
+
+Cleric
+------
+Medium Combat
+Good Hit Points
+Medium Weapons Skills
+Medium Other Skills
+No Thief Abilities
+No Spells
+Good Prayers
+
+Mage
+----
+Poor Combat
+Poor Hit Points
+Poor Weapon Skills
+Medium Other Skills
+No Thief Abilities
+Good Spells
+No Prayers

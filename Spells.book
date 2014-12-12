@@ -1,0 +1,6 @@
+Spells
+------
+
+Spells are cast using Mana.  Each spell costs a specified amount of mana to cast.  Some spells can be augmented by spending additional mana.  Augmentation can be additional damage, increased duration, increased range and other effects.  These are enumerated in the spell description.
+
+A caster may cast any spell that he knows, he has enough mana to cast and that he meets any other requirements in the spell description.  A caster can know a number of spells equal to the chart given in the class description plus his Intelligence bonus.

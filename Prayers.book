@@ -1,0 +1,4 @@
+Prayers
+-------
+
+A priest can cast any prayer he knows.  After casting the prayer the priest rolls a d20 plus his Wisdom bonus against a Difficulty of 15.  If roll succeeds then the prayer can be used again.  If it fails then it is used up until the next long rest.  Some prayers can be augmented.  Each augmentation increases the difficulty of the roll to reuse the prayer.  Prayers may not be augmented beyond a Difficulty of 20.
