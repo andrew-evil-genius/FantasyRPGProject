@@ -2,3 +2,135 @@ Prayers
 -------
 
 A priest can cast any prayer he knows.  After casting the prayer the priest rolls a d20 plus his Wisdom bonus against a Difficulty of 15.  If roll succeeds then the prayer can be used again.  If it fails then it is used up until the next long rest.  Some prayers can be augmented.  Each augmentation increases the difficulty of the roll to reuse the prayer.  Prayers may not be augmented beyond a Difficulty of 20.
+
+1st-Level Cleric Spells
+
+Shield of Faith: Aura grants +2 or higher deflection bonus.
+Endure Elements: Exist comfortably in hot or cold environments.
+Bane: Enemies take -1 on attack rolls and a -1 Spell Defense against fear. Affect lasts for 5 rounds. +2 rounds per augment. +1 target per augment.
+Command: One subject obeys selected command for 1 round.
+Bless: Allies gain +1 on attack rolls and a -1 Spell Defense against fear. Affect lasts for 5 rounds. +2 rounds per augment. +1 target per augment. 
+Divine Favor: You gain +1 per three levels on attack and damage rolls.
+Magic Weapon: Weapon gains +1 bonus.
+Cure Wounds: Cures 1d8 damage +1/level (max +5). +1d8 per augment.
+Remove Fear: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+Sanctuary: Opponents can’t attack you, and you can’t attack.
+
+3rd-Level Cleric Spells
+
+Aid: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
+Bear’s Endurance: Subject gains +4 to Con for 1 min./level.
+Bull’s Strength: Subject gains +4 to Str for 1 min./level.
+Eagle’s Splendor: Subject gains +4 to Cha for 1 min./level.
+Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level.
+Hold Person: Paralyzes one humanoid for 1 round/level.
+Remove Paralysis: Frees one or more creatures from paralysis or slow effect.
+Restoration, Lesser: Dispels magical ability penalty or repairs 1d4 ability damage.
+Shield Other F: You take half of subject’s damage.
+Silence: Negates sound in 20-ft. radius.
+
+5th-Level Cleric Spells
+
+Animate Dead M: Creates undead skeletons and zombies.
+Remove Blindness/Deafness: Cures normal or magical conditions.
+Remove Curse: Frees object or person from curse.
+Remove Disease: Cures all diseases affecting subject.
+Prayer: Allies +1 bonus on most rolls, enemies -1 penalty.
+Protection from Energy: Absorb 12 points/level of damage from one kind of energy.
+Searing Light: Ray deals 1d8/two levels damage, more against undead.
+Magic Vestment: Armor or shield gains +1 enhancement per four levels.
+Glyph of Warding M: Inscription harms those who pass it.
+Create Food and Water: Feeds three humans (or one horse)/level.
+
+7th-Level Cleric Spells
+Air Walk: Subject treads on air as if solid (climb at 45-degree angle).
+Control Water: Raises or lowers bodies of water.
+Death Ward: Grants immunity to death spells and negative energy effects.
+Dimensional Anchor: Bars extradimensional movement.
+Discern Lies: Reveals deliberate falsehoods.
+Dismissal: Forces a creature to return to native plane.
+Divination M: Provides useful advice for specific proposed actions.
+Divine Power: You gain attack bonus, +6 to Str, and 1 hp/level.
+Freedom of Movement: Subject moves normally despite impediments.
+Neutralize Poison: Immunizes subject against poison, detoxifies venom in or on subject.
+Planar Ally, Lesser X: Exchange services with a 6 HD extraplanar creature.
+Poison: Touch deals 1d10 Con damage, repeats in 1 min.
+Restoration M: Restores level and ability score drains.
+Sending: Delivers short message anywhere, instantly.
+Spell Immunity: Subject is immune to one spell per four levels.
+Tongues: Speak any language.
+
+10th-Level Cleric Spells
+Break Enchantment: Frees subjects from enchantments, alterations, curses, and petrification.
+Commune X: Deity answers one yes-or-no question/level.
+Disrupting Weapon: Melee weapon destroys undead.
+Flame Strike: Smite foes with divine fire (1d6/level damage).
+Hallow M: Designates location as holy.
+Mark of Justice: Designates action that will trigger curse on subject.
+Plane Shift F: As many as eight subjects travel to another plane.
+Raise Dead M: Restores life to subject who died as long as one day/level ago.
+Righteous Might: Your size increases, and you gain combat bonuses.
+Slay Living: Touch attack kills subject.
+Spell Resistance: Subject gains SR 12 + level.
+Symbol of Pain M: Triggered rune wracks nearby creatures with pain.
+Symbol of Sleep M: Triggered rune puts nearby creatures into catatonic slumber.
+True Seeing M: Lets you see all things as they really are.
+Unhallow M: Designates location as unholy.
+
+13th-Level Cleric Spells
+Antilife Shell: 10-ft. field hedges out living creatures.
+Banishment: Banishes 2 HD/level of extraplanar creatures.
+Blade Barrier: Wall of blades deals 1d6/level damage.
+Create Undead: Create ghouls, ghasts, mummies, or mohrgs.
+Find the Path: Shows most direct way to a location.
+Forbiddance M: Blocks planar travel, damages creatures of different alignment.
+Geas/Quest: As lesser geas, plus it affects any creature.
+Harm: Deals 10 points/level damage to target.
+Heal: Cures 10 points/level of damage, all diseases and mental conditions.
+Heroes’ Feast: Food for one creature/level cures and grants combat bonuses.
+Planar Ally X: As lesser planar ally, but up to 12 HD.
+Symbol of Fear M: Triggered rune panics nearby creatures.
+Symbol of Persuasion M: Triggered rune charms nearby creatures.
+Undeath to Death M: Destroys 1d4 HD/level undead (max 20d4).
+Wind Walk: You and your allies turn vaporous and travel fast.
+Word of Recall: Teleports you back to designated place.
+
+15th-Level Cleric Spells
+Blasphemy: Kills, paralyzes, weakens, or dazes nonevil subjects.
+Control Weather: Changes weather in local area.
+Destruction F: Kills subject and destroys remains.
+Ethereal Jaunt: You become ethereal for 1 round/level.
+Holy Word: Kills, paralyzes, blinds, or deafens nongood subjects.
+Refuge M: Alters item to transport its possessor to you.
+Regenerate: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
+Repulsion: Creatures can’t approach you.
+Resurrection M: Fully restore dead subject.
+Symbol of Stunning M: Triggered rune stuns nearby creatures.
+Symbol of Weakness M: Triggered rune weakens nearby creatures.
+Word of Chaos: Kills, confuses, stuns, or deafens nonchaotic subjects.
+
+17th-Level Cleric Spells
+Antimagic Field: Negates magic within 10 ft.
+Create Greater Undead M: Create shadows, wraiths, spectres, or devourers.
+Dimensional Lock: Teleportation and interplanar travel blocked for one day/level.
+Discern Location: Reveals exact location of creature or object.
+Earthquake: Intense tremor shakes 80-ft.-radius.
+Fire Storm: Deals 1d6/level fire damage.
+Holy Aura F: +4 to AC, +4 resistance, and SR 25 against evil spells.
+Planar Ally, Greater X: As lesser planar ally, but up to 18 HD.
+Shield of Law F: +4 to AC, +4 resistance, and SR 25 against chaotic spells.
+Spell Immunity, Greater: As spell immunity, but up to 8th-level spells.
+Symbol of Death M: Triggered rune slays nearby creatures.
+Symbol of Insanity M: Triggered rune renders nearby creatures insane.
+Unholy Aura F: +4 to AC, +4 resistance, and SR 25 against good spells.
+
+19th-Level Cleric Spells
+Astral Projection M: Projects you and companions onto Astral Plane.
+Energy Drain: Subject gains 2d4 negative levels.
+Etherealness: Travel to Ethereal Plane with companions.
+Gate X: Connects two planes for travel or summoning.
+Heal, Mass: As heal, but with several subjects.
+Implosion: Kills one creature/round.
+Miracle X: Requests a deity’s intercession.
+Soul Bind F: Traps newly dead soul to prevent resurrection.
+Storm of Vengeance: Storm rains acid, lightning, and hail.
