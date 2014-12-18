@@ -7,17 +7,147 @@ A caster may cast any spell that he knows, he has enough mana to cast and that h
 
 1st-Level Sorcerer/Wizard Spells
 
-Shield: Invisible disc gives +4 to AC, blocks magic missiles.
-Mage Armor: Gives subject +4 armor bonus.
-Summon Monster: Calls extraplanar creature to fight for you.
-Unseen Servant: Invisible force obeys your commands.
-Magic Missile: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
-Shocking Grasp: Touch delivers 1d6/level electricity damage (max 5d6).
-Burning Hands: 1d4/level fire damage (max 5d4).
-Enlarge Person: Humanoid creature doubles in size.
-Alarm: Wards an area for 2 hours/level.
-Hold Portal: Holds door shut.
-Identify M: Determines properties of magic item.
+Shield
+------
+Casting Time: 1 Action
+Range: Personal
+Target: Your
+Duration: 5 rounds
+
+Shield creates an invisible, tower shield-sized mobile disk of force that hovers in front of you. It negates magic missile attacks directed at you. The disk also provides a +4 shield bonus to AC.
+
+Augmentation: +5 rounds per Mana.
+
+Mage Armor 
+----------
+Casting Time: 1 Action
+Range: Touch
+Target: Creature Touched
+Duration: 1 hour
+
+An invisible but tangible field of force surrounds the subject of a mage armor spell, providing a +4 armor bonus to AC.
+
+Augmentation: +1 hour per Mana.
+
+Summon Monster
+--------------
+Casting Time: 1 Round
+Range: Close
+Duration: 1 Round
+
+This spell summons a creature. It appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions.
+
+The summoned creature is a 1 HD monster. You choose which kind of creature to summon, and you can change that choice each time you cast the spell.
+
+A summoned monster cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities. Creatures cannot be summoned into an environment that cannot support them.
+
+Augmentation: +1 Round per Mana.  +1 HD per Mana (Max 5HD).
+
+Unseen Servant
+--------------
+Casting Time: 1 Action
+Range: 25 feet
+Target: Creature Touched
+Duration: 1 hour
+
+An unseen servant is an invisible, mindless, shapeless force that performs simple tasks at your command. It can run and fetch things, open unstuck doors, and hold chairs, as well as clean and mend. The servant can perform only one activity at a time, but it repeats the same activity over and over again if told to do so as long as you remain within range. It can open only normal doors, drawers, lids, and the like. It can lift 20 pounds or drag 100 pounds. It can trigger traps and such, but it can exert only 20 pounds of force, which is not enough to activate certain pressure plates and other devices. It can’t perform any task that requires a skill check with a DC higher than 10 or that requires a check using a skill that can’t be used untrained.
+
+The servant cannot attack in any way; it is never allowed an attack roll. It cannot be killed, but it dissipates if it takes 6 points of damage from area attacks. It has a Defense of 5 against attacks. If you attempt to send it beyond the spell’s range, measured from your current position, the servant ceases to exist.
+
+Augmentation: +1 hour per Mana.  +5 feet per Mana.
+
+Magic Missile
+--------------
+Casting Time: 1 Action
+Range: Long
+Target: Up to 5 creatures no more than 15 ft apart.
+
+A missile of magical energy darts forth from your fingertip dealing 1d4+1 points of force damage.
+
+The missile strikes unerringly, even if the target is in melee combat or has less than total cover or total concealment. Specific parts of a creature can’t be singled out. Inanimate objects are not damaged by the spell.
+
+If you shoot multiple missiles, you can have them strike a single creature or several creatures. A single missile can strike only one creature. You must designate targets before you roll damage.
+
+Augmentation: +1 missile per 2 Mana (Max 5 missiles).
+
+Shocking Grasp
+--------------
+Casting Time: 1 Action
+Range: Touch
+Target: Creature Touched
+Defense: Toughness
+
+Your successful melee attack deals 1d6 points of electricity damage. When delivering the jolt, you gain a +2 bonus on attack rolls if the opponent is wearing metal armor (or made out of metal, carrying a lot of metal, or the like).
+
+Augmentation: +1d6 per Mana (maximum 5d6).
+
+Burning Hands
+--------------
+Casting Time: 1 Action
+Range: Close
+Area: Cone shaped burst.
+Defense: Toughness
+
+A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage. Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.
+
+Augmentation: +1d4 per Mana (maximum 5d4).
+
+Enlarge Person
+--------------
+Casting Time: 1 Round
+Range: Close
+Target: 1 Humanoid Creature
+Defense: Toughness
+Duration: 1 minute
+
+This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8. The target gains a +2 size bonus to Strength, a -2 size penalty to Dexterity (to a minimum of 1), and a -1 penalty on attack rolls and AC due to its increased size. This spell does not change the target’s speed.
+
+If insufficient room is available for the desired growth, the creature attains the maximum possible size and may make a Strength check (using its increased Strength) to burst any enclosures in the process. If it fails, it is constrained without harm by the materials enclosing it— the spell cannot be used to crush a creature by increasing its size.
+
+All equipment worn or carried by a creature is similarly enlarged by the spell. Melee and projectile weapons affected by this spell deal more damage. Other magical properties are not affected by this spell. Any enlarged item that leaves an enlarged creature’s possession (including a projectile or thrown weapon) instantly returns to its normal size. This means that thrown weapons deal their normal damage, and projectiles deal damage based on the size of the weapon that fired them. Magical properties of enlarged items are not increased by this spell.
+
+Augmentation: +1 minute per Mana. +1 target per 3 Mana.
+
+Alarm
+-----
+Casting Time: 1 Action
+Range: Close
+Area: 20 foot radius
+Duration: 2 hours
+
+Alarm sounds a mental or audible alarm each time a creature enters the warded area or touches it. A creature that speaks the password (determined by you at the time of casting) does not set off the alarm. You decide at the time of casting whether the alarm will be mental or audible.
+
+Mental Alarm
+A mental alarm alerts you (and only you) so long as you remain within 1 mile of the warded area. You note a single mental “ping” that awakens you from normal sleep but does not otherwise disturb concentration. A silence spell has no effect on a mental alarm.
+
+Audible Alarm
+An audible alarm produces the sound of a hand bell, and anyone within 60 feet of the warded area can hear it clearly. Reduce the distance by 10 feet for each interposing closed door and by 20 feet for each substantial interposing wall. In quiet conditions, the ringing can be heard faintly as far as 180 feet away. The sound lasts for 1 round. Creatures within a silence spell cannot hear the ringing.
+
+Ethereal or astral creatures do not trigger the alarm.
+
+Augmentation: +1 Mana per type of creature to exclude. +2 hours per Mana.
+
+Hold Portal
+-----
+Casting Time: 1 Action
+Range: Long
+Target: 1 portal up to 20 sq feet.
+Duration: 1 minute
+
+This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A knock spell or a successful dispel magic spell can negate a hold portal spell.  For a portal affected by this spell, add 5 to the normal Difficulty for forcing open the portal.
+
+Augmentation: +1 minute per Mana.
+
+Identify
+--------
+Casting Time: 1 hour
+Range: Touch
+Target: 1 touched object
+
+The spell determines all magic properties of a single magic item, including how to activate those functions (if appropriate), and how many charges are left (if any). Identify does not function when used on an artifact.
+
+Material Component
+A pearl of at least 100 gp value. Component is destroyed in the casting.
 
 3rd-Level Sorcerer/Wizard Spells
 
@@ -44,282 +174,3 @@ Stinking Cloud: Nauseating vapors, 1 round/level.
 Heroism: Gives +2 bonus on attack rolls, saves, skill checks.
 Major Image: As silent image, plus sound, smell and thermal effects.
 Fly: Subject flies at speed of 60 ft.
-
-4th-Level Sorcerer/Wizard Spells
-Abjur
-Dimensional Anchor: Bars extradimensional movement.
-Fire Trap M: Opened object deals 1d4 damage +1/level.
-Globe of Invulnerability, Lesser: Stops 1st- through 3rd-level spell effects.
-Remove Curse: Frees object or person from curse.
-Stoneskin M: Ignore 10 points of damage per attack.
-Conj
-Black Tentacles: Tentacles grapple all within 20 ft. spread.
-Dimension Door: Teleports you short distance.
-Minor Creation: Creates one cloth or wood object.
-Secure Shelter: Creates sturdy cottage.
-Solid Fog: Blocks vision and slows movement.
-Summon Monster IV: Calls extraplanar creature to fight for you.
-Div
-Arcane Eye: Invisible floating eye moves 30 ft./round.
-Detect Scrying: Alerts you of magical eavesdropping.
-Locate Creature: Indicates direction to familiar creature.
-Scrying F: Spies on subject from a distance.
-Ench
-Charm Monster: Makes monster believe it is your ally.
-Confusion: Subjects behave oddly for 1 round/level.
-Crushing Despair: Subjects take -2 on attack rolls, damage rolls, saves, and checks.
-Geas, Lesser: Commands subject of 7 HD or less.
-Evoc
-Fire Shield: Creatures attacking you take fire damage; you’re protected from heat or cold.
-Ice Storm: Hail deals 5d6 damage in cylinder 40 ft. across.
-Resilient Sphere: Force globe protects but traps one subject.
-Shout: Deafens all within cone and deals 5d6 sonic damage.
-Wall of Fire: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
-Wall of Ice: Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside.
-Illus
-Hallucinatory Terrain: Makes one type of terrain appear like another (field into forest, or the like).
-Illusory Wall: Wall, floor, or ceiling looks real, but anything can pass through.
-Invisibility, Greater: As invisibility, but subject can attack and stay invisible.
-Phantasmal Killer: Fearsome illusion kills subject or deals 3d6 damage.
-Rainbow Pattern: Lights fascinate 24 HD of creatures.
-Shadow Conjuration: Mimics conjuration below 4th level, but only 20% real.
-Necro
-Animate Dead M: Creates undead skeletons and zombies.
-Bestow Curse: -6 to an ability score; -4 on attack rolls, saves, and checks; or 50% chance of losing each action.
-Contagion: Infects subject with chosen disease.
-Enervation: Subject gains 1d4 negative levels.
-Fear: Subjects within cone flee for 1 round/level.
-Trans
-Enlarge Person, Mass: Enlarges several creatures.
-Mnemonic Enhancer F: Wizard only. Prepares extra spells or retains one just cast.
-Polymorph: Gives one willing subject a new form.
-Reduce Person, Mass: Reduces several creatures.
-Stone Shape: Sculpts stone into any shape.
-5th-Level Sorcerer/Wizard Spells
-Abjur
-Break Enchantment: Frees subjects from enchantments, alterations, curses, and petrification.
-Dismissal: Forces a creature to return to native plane.
-Mage’s Private Sanctum: Prevents anyone from viewing or scrying an area for 24 hours.
-Conj
-Cloudkill: Kills 3 HD or less; 4-6 HD save or die, 6+ HD take Con damage.
-Mage’s Faithful Hound: Phantom dog can guard, attack.
-Major Creation: As minor creation, plus stone and metal.
-Planar Binding, Lesser: Traps extraplanar creature of 6 HD or less until it performs a task.
-Secret Chest F: Hides expensive chest on Ethereal Plane; you retrieve it at will.
-Summon Monster V: Calls extraplanar creature to fight for you.
-Teleport: Instantly transports you as far as 100 miles/level.
-Wall of Stone: Creates a stone wall that can be shaped.
-Div
-Contact Other Plane: Lets you ask question of extraplanar entity.
-Prying Eyes: 1d4 +1/level floating eyes scout for you.
-Telepathic Bond: Link lets allies communicate.
-Ench
-Dominate Person: Controls humanoid telepathically.
-Feeblemind: Subject’s Int and Cha drop to 1.
-Hold Monster: As hold person, but any creature.
-Mind Fog: Subjects in fog get -10 to Wis and Will checks.
-Symbol of Sleep M: Triggered rune puts nearby creatures into catatonic slumber.
-Evoc
-Cone of Cold: 1d6/level cold damage.
-Interposing Hand: Hand provides cover against one opponent.
-Sending: Delivers short message anywhere, instantly.
-Wall of Force: Wall is immune to damage.
-Illus
-Dream: Sends message to anyone sleeping.
-False Vision M: Fools scrying with an illusion.
-Mirage Arcana: As hallucinatory terrain, plus structures.
-Nightmare: Sends vision dealing 1d10 damage, fatigue.
-Persistent Image: As major image, but no concentration required.
-Seeming: Changes appearance of one person per two levels.
-Shadow Evocation: Mimics evocation below 5th level, but only 20% real.
-Necro
-Blight: Withers one plant or deals 1d6/level damage to plant creature.
-Magic Jar F: Enables possession of another creature.
-Symbol of Pain M: Triggered rune wracks nearby creatures with pain.
-Waves of Fatigue: Several targets become fatigued.
-Trans
-Animal Growth: One animal/two levels doubles in size.
-Baleful Polymorph: Transforms subject into harmless animal.
-Fabricate: Transforms raw materials into finished items.
-Overland Flight: You fly at a speed of 40 ft. and can hustle over long distances.
-Passwall: Creates passage through wood or stone wall.
-Telekinesis: Moves object, attacks creature, or hurls object or creature.
-Transmute Mud to Rock: Transforms two 10-ft. cubes per level.
-Transmute Rock to Mud: Transforms two 10-ft. cubes per level.
-Univ
-Permanency X: Makes certain spells permanent.
-6th-Level Sorcerer/Wizard Spells
-Abjur
-Antimagic Field: Negates magic within 10 ft.
-Dispel Magic, Greater: As dispel magic, but +20 on check.
-Globe of Invulnerability: As lesser globe of invulnerability, plus 4th-level spell effects.
-Guards and Wards: Array of magic effects protect area.
-Repulsion: Creatures can’t approach you.
-Conj
-Acid Fog: Fog deals acid damage.
-Planar Binding: As lesser planar binding, but up to 12 HD.
-Summon Monster VI: Calls extraplanar creature to fight for you.
-Wall of Iron M: 30 hp/four levels; can topple onto foes.
-Div
-Analyze Dweomer F: Reveals magical aspects of subject.
-Legend Lore M F: Lets you learn tales about a person, place, or thing.
-True Seeing M: Lets you see all things as they really are.
-Ench
-Geas/Quest: As lesser geas, plus it affects any creature.
-Heroism, Greater: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
-Suggestion, Mass: As suggestion, plus one subject/level.
-Symbol of Persuasion M: Triggered rune charms nearby creatures.
-Evoc
-Chain Lightning: 1d6/level damage; 1 secondary bolt/level each deals half damage.
-Contingency F: Sets trigger condition for another spell.
-Forceful Hand: Hand pushes creatures away.
-Freezing Sphere: Freezes water or deals cold damage.
-Illus
-Mislead: Turns you invisible and creates illusory double.
-Permanent Image: Includes sight, sound, and smell.
-Programmed Image M: As major image, plus triggered by event.
-Shadow Walk: Step into shadow to travel rapidly.
-Veil: Changes appearance of group of creatures.
-Necro
-Circle of Death M: Kills 1d4/level HD of creatures.
-Create Undead M: Creates ghouls, ghasts, mummies, or mohrgs.
-Eyebite: Target becomes panicked, sickened, and comatose.
-Symbol of Fear M: Triggered rune panics nearby creatures.
-Undeath to Death M: Destroys 1d4/level HD of undead (max 20d4).
-Trans
-Bear’s Endurance, Mass: As bear’s endurance, affects one subject/level.
-Bull’s Strength, Mass: As bull’s strength, affects one subject/ level.
-Cat’s Grace, Mass: As cat’s grace, affects one subject/level.
-Control Water: Raises or lowers bodies of water.
-Disintegrate: Makes one creature or object vanish.
-Eagle’s Splendor, Mass: As eagle’s splendor, affects one subject/level.
-Flesh to Stone: Turns subject creature into statue.
-Fox’s Cunning, Mass: As fox’s cunning, affects one subject/ level.
-Mage’s Lucubration: Wizard only. Recalls spell of 5th level or lower.
-Move Earth: Digs trenches and build hills.
-Owl’s Wisdom, Mass: As owl’s wisdom, affects one subject/ level.
-Stone to Flesh: Restores petrified creature.
-Transformation M: You gain combat bonuses.
-7th-Level Sorcerer/Wizard Spells
-Abjur
-Banishment: Banishes 2 HD/level of extraplanar creatures.
-Sequester: Subject is invisible to sight and scrying; renders creature comatose.
-Spell Turning: Reflect 1d4+6 spell levels back at caster.
-Conj
-Instant Summons M: Prepared object appears in your hand.
-Mage’s Magnificent Mansion F: Door leads to extradimensional mansion.
-Phase Door: Creates an invisible passage through wood or stone.
-Plane Shift F: As many as eight subjects travel to another plane.
-Summon Monster VII: Calls extraplanar creature to fight for you.
-Teleport, Greater: As teleport, but no range limit and no off-target arrival.
-Teleport Object: As teleport, but affects a touched object.
-Div
-Arcane Sight, Greater: As arcane sight, but also reveals magic effects on creatures and objects.
-Scrying, Greater: As scrying, but faster and longer.
-Vision M X: As legend lore, but quicker and strenuous.
-Ench
-Hold Person, Mass: As hold person, but all within 30 ft.
-Insanity: Subject suffers continuous confusion.
-Power Word Blind: Blinds creature with 200 hp or less.
-Symbol of Stunning M: Triggered rune stuns nearby creatures.
-Evoc
-Delayed Blast Fireball: 1d6/level fire damage; you can postpone blast for 5 rounds.
-Forcecage M: Cube or cage of force imprisons all inside.
-Grasping Hand: Hand provides cover, pushes, or grapples.
-Mage’s Sword F: Floating magic blade strikes opponents.
-Prismatic Spray: Rays hit subjects with variety of effects.
-Illus
-Invisibility, Mass: As invisibility, but affects all in range.
-Project Image: Illusory double can talk and cast spells.
-Shadow Conjuration, Greater: As shadow conjuration, but up to 6th level and 60% real.
-Simulacrum M X: Creates partially real double of a creature.
-Necro
-Control Undead: Undead don’t attack you while under your command.
-Finger of Death: Kills one subject.
-Symbol of Weakness M: Triggered rune weakens nearby creatures.
-Waves of Exhaustion: Several targets become exhausted.
-Trans
-Control Weather: Changes weather in local area.
-Ethereal Jaunt: You become ethereal for 1 round/level.
-Reverse Gravity: Objects and creatures fall upward.
-Statue: Subject can become a statue at will.
-Univ
-Limited Wish X: Alters reality—within spell limits.
-8th-Level Sorcerer/Wizard Spells
-Abjur
-Dimensional Lock: Teleportation and interplanar travel blocked for one day/level.
-Mind Blank: Subject is immune to mental/emotional magic and scrying.
-Prismatic Wall: Wall’s colors have array of effects.
-Protection from Spells M F: Confers +8 resistance bonus.
-Conj
-Incendiary Cloud: Cloud deals 4d6 fire damage/round.
-Maze: Traps subject in extradimensional maze.
-Planar Binding, Greater: As lesser planar binding, but up to 18 HD.
-Summon Monster VIII: Calls extraplanar creature to fight for you.
-Trap the Soul M F: Imprisons subject within gem.
-Div
-Discern Location: Reveals exact location of creature or object.
-Moment of Prescience: You gain insight bonus on single attack roll, check, or save.
-Prying Eyes, Greater: As prying eyes, but eyes have true seeing.
-Ench
-Antipathy: Object or location affected by spell repels certain creatures.
-Binding M: Utilizes an array of techniques to imprison a creature.
-Charm Monster, Mass: As charm monster, but all within 30 ft.
-Demand: As sending, plus you can send suggestion.
-Irresistible Dance: Forces subject to dance.
-Power Word Stun: Stuns creature with 150 hp or less.
-Symbol of Insanity M: Triggered rune renders nearby creatures insane.
-Sympathy F: Object or location attracts certain creatures.
-Evoc
-Clenched Fist: Large hand provides cover, pushes, or attacks your foes.
-Polar Ray: Ranged touch attack deals 1d6/level cold damage.
-Shout, Greater: Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.
-Sunburst: Blinds all within 10 ft., deals 6d6 damage.
-Telekinetic Sphere: As resilient sphere, but you move sphere telekinetically.
-Illus
-Scintillating Pattern: Twisting colors confuse, stun, or render unconscious.
-Screen: Illusion hides area from vision, scrying.
-Shadow Evocation, Greater: As shadow evocation, but up to 7th level and 60% real.
-Necro
-Clone M F: Duplicate awakens when original dies.
-Create Greater Undead M: Create shadows, wraiths, spectres, or devourers.
-Horrid Wilting: Deals 1d6/level damage within 30 ft.
-Symbol of Death M: Triggered rune slays nearby creatures.
-Trans
-Iron Body: Your body becomes living iron.
-Polymorph Any Object: Changes any subject into anything else.
-Temporal Stasis M: Puts subject into suspended animation.
-9th-Level Sorcerer/Wizard Spells
-Abjur
-Freedom: Releases creature from imprisonment.
-Imprisonment: Entombs subject beneath the earth.
-Mage’s Disjunction: Dispels magic, disenchants magic items.
-Prismatic Sphere: As prismatic wall, but surrounds on all sides.
-Conj
-Gate X: Connects two planes for travel or summoning.
-Refuge M: Alters item to transport its possessor to you.
-Summon Monster IX: Calls extraplanar creature to fight for you.
-Teleportation Circle M: Circle teleports any creature inside to designated spot.
-Div
-Foresight: “Sixth sense” warns of impending danger.
-Ench
-Dominate Monster: As dominate person, but any creature.
-Hold Monster, Mass: As hold monster, but all within 30 ft.
-Power Word Kill: Kills one creature with 100 hp or less.
-Evoc
-Crushing Hand: Large hand provides cover, pushes, or crushes your foes.
-Meteor Swarm: Four exploding spheres each deal 6d6 fire damage.
-Illus
-Shades: As shadow conjuration, but up to 8th level and 80% real.
-Weird: As phantasmal killer, but affects all within 30 ft.
-Necro
-Astral Projection M: Projects you and companions onto Astral Plane.
-Energy Drain: Subject gains 2d4 negative levels.
-Soul Bind F: Traps newly dead soul to prevent resurrection.
-Wail of the Banshee: Kills one creature/level.
-Trans
-Etherealness: Travel to Ethereal Plane with companions.
-Shapechange F: Transforms you into any creature, and change forms once per round.
-Time Stop: You act freely for 1d4+1 rounds.
-Univ
-Wish X: As limited wish, but with fewer limits.
