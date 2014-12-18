@@ -5,16 +5,130 @@ A priest can cast any prayer he knows.  After casting the prayer the priest roll
 
 1st-Level Cleric Spells
 
-Shield of Faith: Aura grants +2 or higher deflection bonus.
-Endure Elements: Exist comfortably in hot or cold environments.
-Bane: Enemies take -1 on attack rolls and a -1 Spell Defense against fear. Affect lasts for 5 rounds. +2 rounds per augment. +1 target per augment.
-Command: One subject obeys selected command for 1 round.
-Bless: Allies gain +1 on attack rolls and a -1 Spell Defense against fear. Affect lasts for 5 rounds. +2 rounds per augment. +1 target per augment. 
-Divine Favor: You gain +1 per three levels on attack and damage rolls.
-Magic Weapon: Weapon gains +1 bonus.
-Cure Wounds: Cures 1d8 damage +1/level (max +5). +1d8 per augment.
-Remove Fear: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
-Sanctuary: Opponents can’t attack you, and you can’t attack.
+Shield of Faith
+---------------
+Casting Time: 1 Action
+Range: Touch
+Target: Creature touched.
+Duration: 1 minute
+
+This spell creates a shimmering, magical field around the touched creature that averts attacks. The spell grants the subject a +2 bonus to AC.
+
+Augmentation: +1 AC per 2 augment.
+
+Endure Elements
+---------------
+Casting Time: 1 Action
+Range: Touch
+Target: Creature touched.
+Duration: 24 hours
+
+A creature protected by endure elements suffers no harm from being in a hot or cold environment. It can exist comfortably in conditions between -50 and 140 degrees Fahrenheit without having to make Fortitude saves). The creature’s equipment is likewise protected.  Endure elements doesn’t provide any protection from fire or cold damage, nor does it protect against other environmental hazards such as smoke, lack of air, and so forth.
+
+Bane
+----
+Casting Time: 1 Action
+Range: Close
+Target: 1 Enemy in range.
+Duration: 5 rounds
+Defense: Willpower
+
+Bane fills your enemies with fear and doubt. Each affected creature takes a -1 penalty on attack rolls and a -1 penalty on saving throws against fear effects. Bane counters and dispels bless.
+
+Augmentation: +2 rounds per augment. +1 target per augment.
+
+Command
+-------
+Casting Time: 1 Action
+Range: Close
+Target: 1 creature in range.
+Duration: 1 round
+Defense: Willpower
+
+You give the subject a single command, which it obeys to the best of its ability at its earliest opportunity. You may select from the following options.
+
+Approach
+On its turn, the subject moves toward you as quickly and directly as possible for 1 round. The creature may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal.
+
+Drop
+On its turn, the subject drops whatever it is holding. It can’t pick up any dropped item until its next turn.
+
+Fall
+On its turn, the subject falls to the ground and remains prone for 1 round. It may act normally while prone but takes any appropriate penalties.
+
+Flee
+On its turn, the subject moves away from you as quickly as possible for 1 round. It may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal.
+
+Halt
+The subject stands in place for 1 round. It may not take any actions but is not considered helpless.
+
+If the subject can’t carry out your command on its next turn, the spell automatically fails.
+
+Bless
+-----
+Casting Time: 1 Action
+Range: Close
+Target: The caster or 1 ally in range.
+Duration: 5 rounds
+
+Bless fills your allies with courage. Each ally gains a +1 bonus on attack rolls and on Defenses against fear effects. Bless counters and dispels bane.
+
+Augmentation: +2 rounds per augment. +1 target per augment. 
+
+Divine Favor
+------------
+Casting Time: 1 Action
+Range: Personal
+Target: The caster
+Duration: 1 minute
+
+Calling upon the strength and wisdom of a deity, you gain a +1 bonus on attack and weapon damage rolls. The bonus doesn’t apply to spell damage.
+
+Augmentation: +1 bonus per +2 augment.
+
+Magic Weapon
+------------
+Casting Time: 1 Action
+Range: Touch
+Target: 1 Weapon
+Duration: 1 minute
+
+Magic weapon gives a weapon a +1 bonus on attack and damage rolls. You can’t cast this spell on a natural weapon, such as an unarmed strike.
+
+Augmentation: +1 minute per augment.
+
+Cure Wounds
+------------
+Casting Time: 1 Action
+Range: Touch
+Target: 1 Creature
+Defense: Reflex
+
+When laying your hand upon a living creature, you cure 1d8+1 points of damage. This spell deals damage to undead instead of curing their wounds. An undead creature can apply spell resistance and can apply their Reflex defense to not be touched.
+
+Augmentation: +1d8+1 point per augment.
+
+Remove Fear
+------------
+Casting Time: 1 Action
+Range: Close
+Target: 1 Creature
+Duration: 10 minutes
+
+You instill courage in the subject, granting it a +4 bonus against fear effects. If the subject is under the influence of a fear effect when receiving the spell, that effect is suppressed for the duration of the spell. Remove fear counters and dispels cause fear.
+
+Augmentation: +1 creature per augment. 
+
+Sanctuary
+------------
+Casting Time: 1 Action
+Range: Touch
+Target: 1 Creature.
+Duration: 1 Round
+
+Any opponent attempting to strike or otherwise directly attack the warded creature, even with a targeted spell, must have a Willpower Defense of 15. If not, the opponent can’t follow through with the attack, that part of its action is lost and it can’t directly attack the warded creature for the duration of the spell. Those not attempting to attack the subject remain unaffected. This spell does not prevent the warded creature from being attacked or affected by area or effect spells. The subject cannot attack without breaking the spell but may use nonattack spells or otherwise act.
+
+Augmentation: +1 to Willpower Defense per augmentation. +1 round per augmentation.
 
 3rd-Level Cleric Spells
 
