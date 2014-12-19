@@ -2,6 +2,7 @@ Fighter
 -------
 Good Combat
 Excellent Hit Points
+Any Armor
 Good Weapon Skills
 Poor Other Skills
 No Thief Abilites
@@ -12,16 +13,19 @@ Thief
 -----
 Medium Combat
 Medium Hit Points
+Light Armor 
 Medium Weapon Skills
 Good Other Skills
 Good Thief Abilities
 No Spells
 No Prayers
+Special: Sneak Attack
 
 Cleric
 ------
 Medium Combat
 Good Hit Points
+Any Armor
 Medium Weapons Skills
 Medium Other Skills
 No Thief Abilities
@@ -32,6 +36,7 @@ Mage
 ----
 Poor Combat
 Poor Hit Points
+Light Armor
 Poor Weapon Skills
 Medium Other Skills
 No Thief Abilities
