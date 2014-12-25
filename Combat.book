@@ -17,8 +17,56 @@ Reflex:		10 + Dex
 Fortitude:	10 + Con
 Willpower:	10 + Wis
 
-On your turn you can move and take an action or you can move twice.
-
 Ranges:
 Engaged - Close - Long - Far Away
 
+Order of Play:
+Surprise
+Initiative
+	Roll a d10 and add Dex bonus.
+Actions
+	On your turn you can move and take an action.
+
+	*Attack
+	*Drink Potion
+	*Cast Spell / Prayers
+	*Move again
+	
+Attack:
+
+Roll d20 add Attack Bonus. If result is higher than the target's Defense then the attack hits and damage is recorded.
+
+A roll of 20 on the die always hits.  A roll of 1 always misses.
+
+Modifiers to Attack:
+
+The simple rule is that if there is something that gives the attacking character an advantage on an attack roll, the players gets a +2 bonus to the roll.  If there is a situation that gives the character a disadvantage on a roll then the player gets a -2 penalty on the roll.
+
+Any unusual situations that don't seem to fall within these paramenters are left up to the GM to adjudicate.
+
+Fighting with 2 Weapons:
+
+Fighting with 2 weapons gets a -2 penalty on each weapon and the offhand weapon does not get any Strength bonus to damage.
+
+Ranged Attacks:
+
+Thrown weapons attack normally at Close range. They get a -4 at Long range and cannot be used at Far Away.
+
+Bows and Crossbows attack normally at Close, -2 at Long and -4 at Far Away.
+
+Firing a missile weapon into melee incurrs a -2 penalty.
+
+Disengaging:
+
+A character can either withdraw or can flee. Withdrawing limits the character to changing only 1 range category but keeps all his defenses up.  Fleeing allows the character to turn and run away at full speed but all engaged foes get the opportunity to a free attack.
+
+	
+Injury and Death:
+
+If a target's Hit Points drop to 0 or below, the target is unconscious and begins making Stabilization rolls.  When the target is a monster the GM will often simplify this process by having the monster die automatically when it reaches 0 Hit Points.
+
+Stabilization rolls happen each round on the unconscious character's turn.  The player (or GM) rolls a d20.  A result of 10 or better is considered a success; 9 or worse is a failure.  If the player achieves 3 successes before 3 failures then the character stabilizes and is in no danger of dying unless it takes more damage.  If the player gets 3 failures before 3 sucesses then the character dies.
+
+Another character can attempt to stabilize the unconscious character.  To do so the player moves his character adjacent to the unconscious character and then spends his turn stabilizing the unconscious character.  He rolls his First Aid skill versus an Easy Difficulty.  A success stabilizes the character and no more stabilization rolls need to be made.  
+
+Giving the unconscious character a healing potion or casting a healing spell causes the character to regain consciousness and gives them the appropriate number of hit points.
