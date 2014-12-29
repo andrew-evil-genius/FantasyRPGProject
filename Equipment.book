@@ -1,0 +1,362 @@
+Equipment
+
+Armor 		
+Banded mail 		200 gp 	
+Brigandine 		120 gp 	
+Chain mail 		75 gp 	
+Field plate 		2000 gp 	
+Full plate 		4,000-10,000 gp 
+Helmet 			-- 	
+  Great helm 		30 gp 	
+  Basinet 		8 gp 	
+Hide 			15 gp 	
+Leather 			5 gp 	
+Padded 			4 gp 	
+Plate mail 		600 gp 	
+Ring mail 		100 gp 	
+Scale mail 		120 gp 	
+Shield 			7 gp
+Splint mail 		80 gp 	
+Studded leather 	20 gp 	
+
+Type of Armor  					AC
+None  							10  	Light
+Leather or padded armor  			11	Light
+Studded leather or ring mail  		12 	Light
+Brigandine, scale mail, or hide armor	13	Medium
+Chain mail  						14 	Medium
+Splint mail or banded mail  			15 	Heavy
+Plate mail  						16 	Heavy
+Field plate  						17 	Heavy
+Full plate  						18 	Heavy
+Shield  							+1
+
+
+Weapons 	
+Battle axe  		5 gp  
+Blowgun  			5 gp  
+Barbed Dart  		1 sp  
+Needle  			2 cp  
+Bow  			75 gp
+Arrows (20)		1 gp
+Club  			--  
+Crossbow  		50 gp
+Bolts (20)		1 gp
+Dagger or dirk  	2 gp  
+Dart  			5 sp  
+Footman's flail  	15 gp  
+Footman's mace  	8 gp  
+Footman's pick  	8 gp  
+Hand axe  		1 gp  
+Harpoon  			20 gp  
+Horseman's flail  	8 gp  
+Horseman's mace  	5 gp  
+Horseman's pick  	7 gp  
+Javelin  			5 sp  
+Knife  			5 sp  
+Lance   			--  
+Heavy horse lance  	15 gp  
+Light horse lance  	6 gp  
+Jousting lance  	20 gp  
+Medium horse lance  10 gp  
+Mancatcher   		30 gp  
+Morning star  		10 gp  
+Polearm  			--  
+  Awl pike   		5 gp  
+  Bardiche  		7 gp  
+  Bec de corbin  	8 gp  
+  Bill-guisarme  	7 gp  
+  Fauchard	  	5 gp  
+  Fauchard-fork  	8 gp  
+  Glaive   		6 gp  
+  Glaive-guisarme 	10 gp  
+  Guisarme  		5 gp  
+  Guisarme-voulge  	8 gp  
+  Halberd  		10 gp  
+  Hook fauchard  	10 gp  
+  Lucern hammer   	7 gp  
+  Military fork   	5 gp  
+  Partisan   		10 gp  
+  Ranseur   		6 gp  
+  Spetum   		5 gp  
+  Voulge  		5 gp  
+Quarterstaff  		--  
+Scourge  			1 gp  
+Sickle  			6 sp  
+Sling  			5 cp  
+Sling bullet  		1 cp  
+Sling stone  		--  
+Spear  			8 sp  
+Staff sling  		2 sp  
+Sword  			--  
+  Bastard sword  	25 gp
+  Broad sword  	10 gp  
+  Khopesh  		10 gp  
+  Long sword  		15 gp  
+  Scimitar  		15 gp  
+  Short sword  	10 gp  
+  Two-hand. sword  	50 gp  
+Trident  			15 gp  
+Warhammer  		2 gp  
+Whip  			1 sp  
+
+
+Clothing 	
+Belt 						3 sp 
+Boots 						-- 
+  Riding 						3 gp 
+  Soft 						1 gp 
+Breeches 						2 gp 
+Cap, hat 						1 sp 
+Cloak 						-- 
+  Good cloth 					8 sp 
+  Fine fur					50 gp 
+Girdle 						3 gp 
+Gloves 						1 gp 
+Gown, common 					12 sp 
+Hose 						2 gp 
+Knife sheath 					3 cp 
+Mittens 						3 sp 
+Pin 							6 gp 
+Plain brooch 					10 gp 
+Robe 						-- 
+  Common 						9 sp 
+  Embroidered 					20 gp 
+Sandals 						5 cp 
+Sash 						2 sp 
+Shoes 						1 gp 
+Silk jacket 					80 gp 
+Surcoat 						6 sp 
+Sword scabbard, hanger, baldric 	4 gp 
+Tabard 						6 sp 
+Toga, coarse 					8 cp 
+Tunic 						8 sp 
+Vest 						6 sp 
+	
+Daily Food and Lodging 	
+Ale (per gallon) 				2 sp 
+Banquet (per person) 			10 gp 
+Bread 						5 cp 
+Cheese 						4 sp 
+City rooms (per month) 			-- 
+  Common 						20 gp 
+  Poor 						6 sp 
+Common wine (pitcher) 			2 sp 
+Egg or fresh vegetables 			1 cp 
+Grain and stabling, horse (daily) 	5 sp 
+Honey 						5 sp 
+Inn lodging (per day/week) 		-- 
+  Common 						5 sp/3 gp 
+  Poor 						5 cp/2 sp 
+Meat for one meal 				1 sp 
+Meals (per day) 				-- 
+  Good 						5 sp 
+  Common 						3 sp 
+  Poor 						1 sp 
+Small beer (per gallon) 			5cp 
+Soup 						5cp 
+Household Provisioning 	
+  Barrel of pickled fish 		3gp 
+  Butter (per lb.) 				2 sp 
+  Coarse sugar (per lb.) 		1 gp 
+  Dry rations (per week) 		10 gp 
+  Eggs (per 100) 				8 sp 
+  (per two dozen) 				2 sp 
+  Figs (per lb.) 				3 sp 
+  Firewood (per day) 			1 cp 
+  Herbs (per lb.) 				5 cp 
+  Nuts (per lb.) 				1 gp 
+  Raisins (per lb.) 			2 sp 
+  Rice (per lb.) 				2 sp 
+  Salt (per lb.) 				1 sp 
+  Salted herring (per 100) 		1 gp 
+  Spice (per lb.) 				-- 
+    Exotic 	 				15 gp 
+    Rare  					2 gp 
+    Uncommon 					1 gp 
+  Tun of cider (250 gal.) 		8 gp 
+  Tun of good wine (250 gal.) 	20 gp 
+Services 	
+  Bath 						3cp 
+  Clerk (per letter) 			2sp 
+  Doctor, leech, or bleeding 		3gp 
+  Guide, in city (per day) 		2sp 
+  Lantern / torchbearer(per night)	1sp 
+  Laundry (by load) 			1cp 
+  Messenger, in city (per message) 1sp 
+  Minstrel (per performance) 		3gp 
+  Mourner (per funeral) 			2sp 
+  Teamster w/wagon 				1sp/mile 
+Transport  	
+  Barge 						500 gp 
+  Canoe 						-- 
+    Small 					30 gp 
+    War 						50 gp 
+  Caravel 					10,000 gp 
+  Carriage 					-- 
+    Common 					150 gp 
+    Coach, ornamented 			7,000 gp 
+  Chariot 					-- 
+    Riding 					200 gp 
+    War 						500 gp 
+  Coaster 					5,000 gp 
+  Cog 						10,000 gp 
+  Curragh 					500 gp 
+  Drakkar 					25,000 gp 
+  Dromond 					15,000 gp 
+  Galleon 					50,000 gp 
+  Great galley 				30,000 gp 
+  Knarr 						3,000 gp 
+  Longship 					10,000 gp 
+  Oar 						-- 
+    Common 					2 gp 
+    Galley 					10 gp 
+  Raft or small keelboat 		100 gp 
+  Sail 						20 gp 
+  Sedan chair 					100 gp 
+  Wagon or cart wheel 			5 gp 
+	
+Animals 	
+Boar 						10 gp 
+Bull 						20 gp 
+Calf 						5 gp 
+Camel 						50 gp 
+Capon 						3 cp 
+Cat 							1 sp 
+Chicken 						2 cp 
+Cow 							10 gp 
+Dog 							-- 
+  Guard 						25 gp 
+  Hunting 					17 gp 
+  War 						20 gp 
+Donkey, mule, or ass 			8 gp 
+Elephant 						-- 
+  Labor 						200 gp 
+  War 						500 gp 
+Falcon (trained) 				1,000 gp 
+Goat 						1 gp 
+Goose 						5 cp 
+Guinea hen 					2 cp 
+Horse 						-- 
+  Draft 						200 gp 
+  Heavy war 					400 gp 
+  Light war 					150 gp 
+  Medium war 					225 gp 
+  Riding 						75 gp 
+Hunting cat (jaguar, etc.) 		5,000 gp 
+Ox 							15 gp 
+Partridge 					5 cp 
+Peacock 						5 sp 
+Pig 							3 gp 
+Pigeon 						1 cp 
+Pigeon, homing 				100 gp 
+Pony 						30 gp 
+Ram 							4 gp 
+Sheep 						2 gp 
+Songbird 						10 sp 
+Swan 						5 sp 
+
+Tack and Harness 	
+Barding 						-- 
+  Chain 						500 gp 
+  Full plate 					2,000 gp 
+  Full scale 					1,000 gp 
+  Half brigandine 				500 gp 
+  Half padded 					100 gp 
+  Half scale 					500 gp 
+  Leather or padded 			150 gp 
+Bit and bridle 				15 sp 
+Cart harness 					2 gp 
+Halter 						5 cp 
+Horseshoes & shoeing 			1 gp 
+Saddle 						-- 
+  Pack 						5 gp 
+  Riding 						10 gp 
+Saddle bags 					-- 
+  Large 						4 gp 
+  Small 						3 gp 
+Saddle blanket 				3 sp 
+Yoke 						-- 
+  Horse 						5 gp 
+  Ox 						3 gp
+
+Miscellaneous Equipment 	
+Backpack 						2 gp 
+Barrel, small 					2 gp 
+Basket 						-- 
+  Large 						3 sp 
+  Small 						5 cp 
+Bell 						1 gp 
+Belt pouch 					-- 
+  Large 						1 gp 
+  Small 						7 sp 
+Block and tackle 				5 gp 
+Bolt case 					1 gp 
+Bucket 						5 sp 
+Chain (per ft.) 				-- 
+  Heavy 						4 gp 
+  Light 						3 gp 
+Chest 						-- 
+  Large	 					2 gp 
+  Small 						1 gp 
+Cloth (per 10 sq. yds.) 			-- 
+  Common 						7 gp 
+  Fine 						50 gp 
+  Rich 						100 gp 
+Candle 						1 cp 
+Canvas (per sq. yard) 			4 sp 
+Chalk 						1 cp 
+Crampons 						4 gp 
+Fishhook 						1 sp 
+Fishing net, 10 ft. sq. 			4 gp 
+Flint and steel 				5 sp 
+Glass bottle 					10 gp 
+Grappling hook 				8 sp 
+Holy item (symbol, water, etc.) 	25 gp 
+Hourglass 					25 gp 
+Iron pot 						5 sp 
+Ladder, 10 ft. 				5 cp 
+Lantern 						-- 
+  Beacon 						150 gp 
+  Bullseye 					12 gp 
+  Hooded 						7 gp 
+Lock 						-- 
+  Good 						100 gp 
+  Poor 						20 gp 
+Magnifying glass 				100 gp 
+Map or scroll case 				8 sp 
+Merchant's scale 				2 gp 
+Mirror, small metal 			10 gp 
+Musical instrument 				5-100 gp 
+Oil (per flask) 				-- 
+  Greek fire 					10 gp 
+  Lamp 						6 cp 
+Paper (per sheet) 				2 gp 
+Papyrus (per sheet) 			8 sp 
+Parchment (per sheet) 			1 gp 
+Perfume (per vial) 				5 gp 
+Piton 						3 cp 
+Quiver 						8 sp 
+Rope (per 50 ft.) 				-- 
+  Hemp 						1 gp 
+  Silk 						10 gp 
+Sack 						-- 
+  Large 						2 sp 
+  Small 						5 cp 
+Sealing/candle wax (per lb.) 		1 gp 
+Sewing needle 					5 sp 
+Signal whistle 				8 sp 
+Signet ring or personal seal 		5 gp 
+Soap (per lb.) 				5 sp 
+Spyglass 						1,000 gp 
+Tent 						-- 
+  Large 						25 gp 
+  Pavilion 					100 gp 
+  Small 						5 gp 
+Thieves' Tools 				30 gp 
+Torch 						1 cp 
+Water clock 					1,000 gp 
+Whetstone 					2 cp 
+Wineskin 						8 sp 
+Winter blanket 				5 sp 
+Writing ink (per vial) 			8 gp 

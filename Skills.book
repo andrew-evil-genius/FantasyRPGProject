@@ -1,3 +1,38 @@
+Skills come in 2 forms: Weapon Skills and Other Skills. Each character has a number of Weapon Skills as determined by his character class.  Each character has a number of Other Skills as determined by his character class plus Intelligence bonus.
+
+Weapon Skills
+
+Weapon Skills are taken individually for each weapon. Instead of spending a single slot on a single weapon a character can spend 2 slots on Tight Group of weapons or 3 slots on a Broad Group of weapons.
+
+Being skilled in a weapon allows a characte to use that weapon at her normal Attack Bonus. Attempting to use a weapon that the character is not skilled in imposes an automatic -2 penalty to hit.
+
+Fighter characters can spend additional slots beyond the first and gain Weapon Specialization.  Weapon Specialization gives the following bonuses: +1 to hit, +2 to damage and +1/2 an attack per round to a maximum of 3 attacks per round.
+
+Weapon Skill slots can also be spent on Fighting Styles.
+
+Weapon and Shield:
+A character with this style can use the shield as a secondary attack as if she were fighting with 2 weapons. All the penalties for fighting with two weapons apply and the damage die of the shield is 1 die type lower than the character's main weapon. However, the character still gets the AC bonus for the shield even when using the shield bash.
+
+One Handed Style:
+Character gains a +1 AC while using a one handed weapon and no shield or weapon in her off-hand.  The character must be in medium or lighter armor for this bonus.
+
+Two Handed Weapon Style:
+Characters with this style get an additonal +2 damage on a successful hit.
+
+Two Weapon Style:
+Characters with this style ignore the -2 penalty on their primary hand.
+
+Bows or Thrown Weapon Style:
+Character may either use a move action twice and still take an attack at a -2 penalty or she may forego any movement and get a second attack at a -2 penalty.
+
+Other Skills
+
+Skills allow a character to get a bonus to an Ability Check where the skill applies. If the character is making an Intelligence Check and the Ancient History skill would be applicable to the check then she gets a +2 bonus if she has that skill.  She gets an additional +1 bonus for every slot after the first spent on a single skill.
+
+Some skills allow special actions and those are listed in the skill description. Some skills also make certain actions automatically successful.
+
+The GM may ver well decide some actions cannot be attempted at all unless the character has that skill.
+
 Agriculture: 
 The character has a knowledge of the basics of farming. This includes planting, harvesting, storing crops, tending animals, butchering, and other typical farming
 chores.
@@ -200,8 +235,7 @@ Stonemasonry:
 A stonemason is able to build structures from stone so that they last many years. He can do simple stone carvings, such as lettering, columns, and flourishes. The stone can be mortared, carefully fitted without mortar, or loosely fitted and chinked with rocks and earth. A stonemason equipped with his tools (hammers, chisels, wedges, block and tackle) can build a plain section of wall one foot thick, ten feet long, and five feet high in one day, provided the stone has already been cut. A stonemason can also supervise the work of unskilled laborers to quarry stone; one stonemason is needed for every five laborers. Dwarves are among the most accomplished stonemasons in the world; they receive a +2 bonus when using this skill.
 
 Survival: 
-This skill must be applied to a specific environment--i.e., a specific type of terrain and weather factors. Typical environments include arctic, woodland, desert, steppe, mountain, or tropical. The character has basic survival knowledge for that terrain type. Additional skill slots can be used to add more types of terrain. A character skilled in survival has a basic knowledge of the hazards he might face in that land. He understands the effects of the weather and knows the proper steps to lessen the risk of exposure. He knows the methods to locate or gather drinkable water. He
-knows how to find basic, not necessarily appetizing, food where none is apparent, thus staving off starvation. Furthermore, a character with survival skill can instruct and aid others in the same situation. When using the skill to find food or water, the character must roll a skill check. If the check is failed, no more attempts can be made that day.
+This skill must be applied to a specific environment--i.e., a specific type of terrain and weather factors. Typical environments include arctic, woodland, desert, steppe, mountain, or tropical. The character has basic survival knowledge for that terrain type. Additional skill slots can be used to add more types of terrain. A character skilled in survival has a basic knowledge of the hazards he might face in that land. He understands the effects of the weather and knows the proper steps to lessen the risk of exposure. He knows the methods to locate or gather drinkable water. He knows how to find basic, not necessarily appetizing, food where none is apparent, thus staving off starvation. Furthermore, a character with survival skill can instruct and aid others in the same situation. When using the skill to find food or water, the character must roll a skill check. If the check is failed, no more attempts can be made that day.
 
 The survival skill in no way releases the player characters from the hardships and horrors of being lost in the wilderness. At best it alleviates a small portion of the suffering. The food found is barely adequate, and water is discovered in minuscule amounts. It is still quite possible for a character with survival knowledge to die in the wilderness.
 
