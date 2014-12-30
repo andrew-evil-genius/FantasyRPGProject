@@ -1,0 +1,103 @@
+Creating a Character
+
+To create a starting character follow theses steps. We will create a starting character as an example.
+
+1. Generate Attribute scores.  
+
+The standard method is to roll 4d6, discard the lowest die and then add the remaining 3 dice together. Do this 6 times, once for each attribute.
+
+Using the standard method we rolled and get: 10, 14, 16, 15, 7, and 11.
+
+2. Decide the character's Race.
+
+We generate the rolls first to see what scores we have to work with in determining race and class. Our scores are sufficient to be any race or class so we decide t0 make a Gnome since we've never played one before.
+
+3. Decide the character's class.
+
+Gnomes make pretty darn good Mages so we'll go with that.
+
+4. Assign the rolled scores to the Attributes as desired.
+
+For a Mage, Intelligence and Charisma are the most important Attributes. We also know that our Gnome gets a +1 to its Intelligence attribute. Given that we put our two highest rolls in Intelligence and Charisma. We put the lower of these into Intelligence knowing it will get bumped up due to our racial choice.
+
+We have a low score of 7 which will give us a penalty. Since we envision our short little gnome as being a bit of a scrawny fellow and not much of a front line fighter we put the 7 in Strength.
+
+Dexterity is useful in not getting hit so we put a good score there. Then we put our two rolls that had no bonuses or penalties in Constitution and Wisdom.
+
+Original Rolls: 10, 14, 16, 15, 7, 11
+Gnome Mage Level 1
+Str: 7 (-1)	Dex: 14 (+1)	Con: 10 (+0)	
+Int: 16 (+2)	Wis: 11 (+0)	Cha: 16 (+2)
+
+5. Determine calculated Attributes.
+
+Starting Hit Points are the Constitution attribute plus the Hit Die determined by the Class. So our gnome has 10 + 1d4 + Constitution Bonus. We roll a 3, that gives us a total of 13.
+
+Our gnome mage has an Attack Bonus of zero.
+
+Our class gives us 1 Mana plus our Charisma bonus. Our Race allows us to add our Intelligence bonus in as well. This gives us 5 Mana.
+
+Armor Class and Reflex Defenses are based on Dexterity, Fortitude is based on Constitution and Willpower is based on Wisdom.
+
+HP: 13	AB: +0	Mana: 5
+AC: 11	Fort: 10	Ref: 11	Will: 10
+
+5. Choose Spells, Prayers and Thief Abilities.
+
+We don't have Prayers or Thief Abilities but we do get 1 plus our Intelligence bonus as Spell selections. That means we get 3. We think a mix of 1 attack spell, 1 defense spell and 1 miscellaneous spell is probably good. We are 1st level so only 1st level spells are available to us.
+
+Spells: Mage Armor, Burning Hands, Identify
+
+6. Choose Skills.
+
+We get 2 Weapons Skills and 3 plus Intelligence bonus (5) in Other Skills.
+
+Weapon Skills: Bow, Bow and Thrown Weapon Style
+Other Skills: Stonemason (+1 Gnome), Spellcraft, Language (Sylvan, Dwarven), Cooking
+
+7. Pick Equipment.
+
+We handle starting equipment simply. Our gnome can have any non-magical equipment that our GM deems reasonable for the game. He then gets 1d10 starting gold pieces left over.
+
+We choose: Leather armor, Bow, Arrows (20), Dagger, Backpack (50' rope, 1 torch, 7 days rations, waterskin, Spellbook)
+
+8. Determine Combat stats and recalculated any Attributes that might have changed.
+
+Leather Armor bumps our AC to 12.
+
+Weapons:		AB	Damage 	#Att
+Bow			+1	1d6+1	1
+Dagger		-1	1d6-1	1
+Dagger(Thrown)	+1	1d6+1	1
+
+9. Pick a name.
+
+You can actually do this at any time. We choose Grimble Thornwhistle.
+
+Voila! Here's our 1st level Gnome Mage
+
+Grimble Thornwhistle
+Gnome Mage Level 1
+Str: 7 (-1)	Dex: 14 (+1)	Con: 10 (+0)	
+Int: 16 (+2)	Wis: 11 (+0)	Cha: 16 (+2)
+HP: 13	AB: +0	Mana: 5
+AC: 12	Fort: 10	Ref: 11	Will: 10
+
+Weapon Skills: Bow, Bow and Thrown Weapon Style
+Other Skills: Stonemason (+1 Gnome), Spellcraft, Language (Badger, Dwarven), Cooking
+
+Weapons:		AB	Damage 	#Att
+Bow			+1	1d6+1	1
+Dagger		-1	1d6-1	1
+Dagger(Thrown)	+1	1d6+1	1
+
+Spells: Mage Armor, Burning Hands, Identify
+
+Equipment: Leather armor, Bow, Arrows (20), Dagger, Backpack (50' rope, 1 torch, 7 days rations, waterskin, Spellbook)
+
+Racial Features:
+Can learn the simple common speech of burrowing mammals (moles, badgers, etc)
++1 to hit with offensive Mage Spells.
++Intelligence bonus to Mana as well as Charisma.
++1 to Stonemason or Mining
+Darkvision

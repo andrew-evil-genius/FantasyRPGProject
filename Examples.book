@@ -1,13 +1,84 @@
 Example Characters
+---------------------------------------------------------
+Original Rolls: 16, 16, 15, 13, 9, 6
+Elven Fighter/Mage Level 2
+Str: 16 (+2)	Dex: 9 (+0)	Con: 15 (+1)	
+Int: 13 (+1)	Wis: 6 (-2)	Cha: 16 (+2)
+HP: 26	AB: +1	Mana: 4
+AC: 12	Fort: 11	Ref: 10	Will: 8
 
-16, 16, 16, 13, 8, 6
-Elven Fighter/Mage Level 1/2
-Str: 16 (+2)	Dex: 9 (+0)	Con: 15 (+1)	Int: 13 (+1)	Wis: 6 (-2)	Cha: 16 (+2)
+Weapon Skills: Long Blades (2), Longsword (Spec.), Bow
+Other Skills: Hunting, Survival, Swimming, Tracking
 
-17, 15, 13, 10, 9, 8
+Weapons:		AB	Damage 	#Att
+Longsword		+5	1d8+4	3/2
+Bows			+2	1d8		1
+
+Spells: Shield, Alarm
+
+Equipment: Longsword, Shield, Leather Armor, Bow, 20 arrows, Backpack (50' rope, 1 torch, 7 days rations, waterskin, Spellbook)
+
+Racial Features:
++4 to Defenses vs Magical Sleep and Charm Spells
++1 to Attack Bonus with Longswords and Bows
++2 to Search for secret doors
++2 AC vs Ogres, Trolls, Ogre Magi, Giants and Titans
+Low-light Vision
+---------------------------------------------------------
+Original Rolls: 17, 15, 13, 10, 9, 8
 Halfling Thief Level 1
-Str: 9 (+0)	Dex: 18 (+3)	Con: 13 (+1)	Int: 15 (+1)	Wis: 8 (-1)	Cha: 9 (+0)
+Str: 9 (+0)	Dex: 18 (+3)	Con: 13 (+1)	
+Int: 15 (+1)	Wis: 8 (-1)	Cha: 9 (+0)
+HP: 18	AB: +1	Mana: 0
+AC: 15	Fort: 11	Ref: 13	Will: 11
 
-14, 13, 10, 10, 9, 6
+Weapon Skills: Short Blades (2), Sling
+Other Skills: Tumbling, Set Snares, Juggling, Gaming, Forgery
+
+Weapons:		AB	Damage 	#Att
+Dagger		+1	1d6		1
+Dagger(Throw)	+5	1d6+3	1
+Sling		+5	1d6+3	1
+
+Thief Abilities:
+Stealth			+4
+Find / Remove Traps	+3
+Pick Locks		+4
+Climb			+1
+Slieght of Hand	+4
+
+Sneak Attack: +1d6
+
+Equipment: Studded Leather, Daggers (3), Sling, 20 bullets, Backpack (50' rope, 1 torch, 7 days rations, waterskin)
+
+Racial Features:
++1 point per level to spend on Thief Abilities
++2 to Willpower Defense
++1 to hit with slings or thrown weapons
+Lowlight Vision
+
+---------------------------------------------------------
+Original Rolls: 14, 13, 10, 10, 9, 6
 Human Cleric Level 2
-Str: 10 (+0)	Dex: 10 (+0)	Con: 9 (+0)	Int: 7 (-1)	Wis: 14 (+1)	Cha: 13 (+1)
+Str: 10 (+0)	Dex: 10 (+0)	Con: 9 (+0)	
+Int: 7 (-1)	Wis: 14 (+1)	Cha: 13 (+1)
+HP: 15	AB: +1	Mana: 0
+AC: 15	Fort: 10	Ref: 10	Will: 12
+
+Weapon Skills: One-Handed Blunt (2), Weapon and Shield Style
+Other Skills: Healing (+1), Religion (+1), Local History
+
+Weapons:		AB	Damage 	#Att
+Mace			+1	1d6		1
+Shield Bash	+1	1d4		1
+Turn Undead	+2	--		--
+
+Prayers: Cure Wounds, Bless
+
+Equipment: Warhammer, Chainmail, Shield, Backpack (50' rope, 1 torch, 7 days rations, waterskin, Spellbook)
+
+Racial Features:
++1 to any single Attribute
++1 to any single Defense
+1 Additonal slot for Other Skills.
++1 to any 2 Other Skills.
