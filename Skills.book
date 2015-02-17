@@ -4,7 +4,7 @@ Weapon Skills
 
 Weapon Skills are taken individually for each weapon. Instead of spending a single slot on a single weapon a character can spend 2 slots on Tight Group of weapons or 3 slots on a Broad Group of weapons.
 
-Being skilled in a weapon allows a characte to use that weapon at her normal Attack Bonus. Attempting to use a weapon that the character is not skilled in imposes an automatic -2 penalty to hit.
+Being skilled in a weapon allows a characte to use that weapon at her normal Attack Bonus. Attempting to use a weapon that the character is not skilled in imposes an automatic -2 penalty to hit and the Attack Die is 1 size smaller.
 
 Fighter characters can spend additional slots beyond the first and gain Weapon Specialization.  Weapon Specialization gives the following bonuses: +1 to hit, +2 to damage and +1/2 an attack per round to a maximum of 3 attacks per round.
 
@@ -27,11 +27,11 @@ Character may either use a move action twice and still take an attack at a -2 pe
 
 Other Skills
 
-Skills allow a character to get a bonus to an Ability Check where the skill applies. If the character is making an Intelligence Check and the Ancient History skill would be applicable to the check then she gets a +2 bonus if she has that skill.  She gets an additional +1 bonus for every slot after the first spent on a single skill.
+Skills allow a character to get a bonus to an Ability Check where the skill applies. If the character is making an Intelligence Check and the Ancient History skill would be applicable to the check then she gets a +4 bonus if she has that skill.  She gets an additional +2 bonus for every slot after the first spent on a single skill.
 
 Some skills allow special actions and those are listed in the skill description. Some skills also make certain actions automatically successful.
 
-The GM may ver well decide some actions cannot be attempted at all unless the character has that skill.
+The GM may very well decide some actions cannot be attempted at all unless the character has that skill.
 
 Agriculture: 
 The character has a knowledge of the basics of farming. This includes planting, harvesting, storing crops, tending animals, butchering, and other typical farming

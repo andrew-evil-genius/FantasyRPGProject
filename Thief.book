@@ -1,6 +1,8 @@
 Thief
 -----
 
+Thieves are the class that relies on a quick wit and subterfuge rather than brute strength. They aren't as physically hardy as the Fighter or Cleric but they have good combat abilities and their Sneak Attack makes them very, very dangerous. They also have very useful Thief Abilities that let them get into places they aren't supposed to be. No party is really complete without a good Thief.
+
 Prerequisite: Dexterity 9
 
 Level	AB	AD		HD		WS	OS	#Att
@@ -29,7 +31,7 @@ Level	AB	AD		HD		WS	OS	#Att
 
 Armor: Light
 
-Sneak Attack: If the Thief attacks an opponent who is already engaged or is unaware of the thief's pressence then on a successful attack roll the thief can add his Sneak Attack dice.(+1d6 at 1st / +2d6 at 8th / +3d6 at 15th)
+Sneak Attack: If the Thief attacks an opponent who is already engaged or is unaware of the thief's pressence then on a successful attack roll the thief can add his Sneak Attack dice. (+1d6 at 1st / +2d6 at 8th / +3d6 at 15th) The Thief can use a ranged or thrown weapon for the Sneak Attack as long as the target is within Close range.
 
 Thief Abilities  (+5 at 1st Level / +3 per level)
 ---------------

@@ -1,6 +1,6 @@
 Advancement
 
-A character's power is measured by his level. As the character adventures and interacts with his world he increases his knowledge, skill and experience. This is handled here in the simplest way possible. Whenever the GM decides that the character or group has reached an appropriate point in the story, she tells everyone that they can level up their characters.
+A character's power is measured by his level. As the character adventures and interacts with his world he increases his knowledge, skill and experience. This is handled here in the simplest way possible. Whenever the GM decides that the character or group has reached an appropriate point in the story, she grants everyone an advancement point.  For single class characters every advancement point indicates an increase in level.  Multi-class characters are slightly more complicated and the player must keep track of advancement on a scale.
 
 To level up a character the player simply looks at advancement chart for the character's class and gives the character any additional hit points, spells or other benefits that come with the new level.  Badabing. Badaboom. Done.
 
@@ -14,4 +14,9 @@ Multi-class characters roll their hit die for each class and add their  Constitu
 
 If a class has restrictions, the multi-class character must abide by the restrictions in order to use that class's features. For example, a Mage cannot cast spells while wearing anything heavier than Light Armor. The Fighter/Mage can get the benefit from wearing heavier armor but cannot cast spells while doing so.
 
-Multi-class characters lag behind single class characters in terms of advancement. Characters with 2 classes lag one level behind single class characters. Characters with 3 classes lag 2 levels behind. For example, a party consists of a single class Fighter, a Fighter/Mage and a Fighter/Thief/Mage. When the GM calls for the first advancement, the Fighter becomes 2nd level. None of the other characters advance. When the GM calls for the next advancement, the Fighter becomes 3rd level and the Fighter/Mage becomes 2nd level. The Fighter/Thief/Mage remains 1st level. At the third advancement, the Fighter is 4th level, the Fighter/Mage is 3rd level and the Fighter/Thief/Mage becomes 2nd level.
+Multi-class characters lag behind single class characters in terms of advancement. Single class characters gain a level with every Advancement achieved. Multi-class characters gain levels according to the chart below.  So at 5 Advancements a single class character would be 6th level. A character with 2 or 3 classes would be 4th level in both.  At 15 Advancements the single class character would be 16th level while the character with 2 or 3 classes would be 11th and 10th level respectively.
+
+   2     3  4     5  6     7  8     9     10    11    12
+2     3  4     5  6     7  8     9  10    11 12    13 14
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20

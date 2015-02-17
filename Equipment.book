@@ -16,17 +16,17 @@ Shield 			7 gp
 Splint mail 		80 gp 	
 Studded leather 	20 gp 	
 
-Type of Armor  					AC
-None  							10  	Light
-Leather or padded armor  			11	Light
-Studded leather or ring mail  		12 	Light
-Brigandine, scale mail, or hide armor	13	Medium
-Chain mail  						14 	Medium
-Splint mail or banded mail  			15 	Heavy
-Plate mail  						16 	Heavy
-Field plate  						17 	Heavy
-Full plate  						18 	Heavy
-Shield  							+1
+Type of Armor  		AC
+None  				10  	Light
+Leather   			11	Light
+Studded leather   		12 	Light
+Ring Mail				13	Medium
+Scale mail			14	Medium
+Chain mail  			15 	Medium
+Banded mail  			16 	Heavy
+Plate mail  			17 	Heavy
+Full plate  			18 	Heavy
+Shield  				+1
 
 
 Weapons 	

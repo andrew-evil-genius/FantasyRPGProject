@@ -5,7 +5,7 @@ Spells are cast using Mana.  Each spell costs a specified amount of mana to cast
 
 A caster may cast any spell that he knows, he has enough mana to cast and that he meets any other requirements in the spell description.  A caster can know a number of spells equal to the chart given in the class description plus his Intelligence bonus.
 
-1st-Level Sorcerer/Wizard Spells
+1st-Level Sorcerer/Wizard Spells (1 Mana)
 
 Shield
 ------
@@ -149,7 +149,7 @@ The spell determines all magic properties of a single magic item, including how 
 Material Component
 A pearl of at least 100 gp value. Component is destroyed in the casting.
 
-3rd-Level Sorcerer/Wizard Spells
+3rd-Level Sorcerer/Wizard Spells (2 Mana)
 
 Protection from Arrows: Subject immune to most ranged attacks.
 Resist Energy: Ignores first 10 (or more) points of damage/attack from specified energy type.
@@ -162,7 +162,7 @@ Levitate: Subject moves up and down at your direction.
 Rope Trick: As many as eight creatures hide in extradimensional space.
 Scorching Ray: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
 
-5th-Level Sorcerer/Wizard Spells
+5th-Level Sorcerer/Wizard Spells (3 Mana)
 
 Magic Circle against Chaos/Evil/Good/Law: As protection spells, but 10-ft. radius and 10 min./level.
 Dispel Magic: Cancels magical spells and effects.
