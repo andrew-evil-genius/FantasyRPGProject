@@ -10,8 +10,8 @@ Other Skills: Healing (+1), Religion (+1), Local History
 
 Weapons:		AB	Damage 	#Att
 Warhammer		+1	1d6+1	1
-Shield Bash	-1	1d4  	1
-Turn Undead	+2	--		--
+Shield Bash		-1	1d4  	1
+Turn Undead		+2	--		--
 
 Prayers: Cure Wounds, Bless, Bane
 
@@ -36,8 +36,8 @@ Weapon Skills: Bows (2), Longbow Spec, Swords
 Other Skills: Survival (+1), Tracking (+1), Riding
 
 Weapons:		AB	Damage 	#Att
-Longbow		+4	1d8+4	3/2
-Shortsword	+2	1d8+1  	1
+Longbow			+4	1d8+4	3/2
+Shortsword		+2	1d8+1  	1
 
 Equipment: Longbow, Quiver (20 arrows), Shortsword, Studded Leather, (50' rope, tent, 7 days rations, waterskin, 20 gold)
 
@@ -59,9 +59,19 @@ AC: 11	Fort: 11	Ref: 12	Will: 10
 Weapon Skills: Missiles (2), Small Blades (2)
 Other Skills: Survival (+1), Tracking (+1), Riding
 
+Thief Abilities  (+5 at 1st Level / +3 per level)
+-------------------------------------------------
+Stealth				+3
+Find / Remove Traps	+2
+Pick Locks			+2
+Climb				+1
+Slieght of Hand		+1
+
 Weapons:		AB	Damage 	#Att
 Shortbow		+2	1d8+1	1
-Dagger		+2	1d8+1  	1
+Dagger			+2	1d8+1  	1
+
+Sneak Attack: +1d6 damage. Opponent must be engaged with another foe.
 
 Equipment: Shortbow, Quiver (20 arrows), Daggers (2), Studded Leather, (50' rope, grappling hook, Thieves tools, 7 days rations, waterskin, 20 gold)
 
@@ -85,7 +95,7 @@ Other Skills: Spellcraft, Engineering, Astrology, Artistic Ability (Painting), A
 
 Weapons:		AB	Damage 	#Att
 Longsword		-1	1d6-2	1
-Bow			+2	1d6+1	1
+Bow				+2	1d6+1	1
 
 Spells: Mage Armor, Burning Hands, Identify
 
@@ -111,9 +121,9 @@ Weapon Skills: Axes (2), Crossbow, Weapon and Shield Style
 Other Skills: Weaponsmithing, Stonemason (+1), Mountaineering, Mining
 
 Weapons:		AB	Damage 	#Att
-Battle Axe	+3	1d8+2	1
-Shield Bash	+1	1d6  	1
-Turn Undead	+0	--		--
+Battle Axe		+3	1d8+2	1
+Shield Bash		+1	1d6  	1
+Turn Undead		+0	--		--
 
 Prayers: Magic Weapon, Divine Favor
 

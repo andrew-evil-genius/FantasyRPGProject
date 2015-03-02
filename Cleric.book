@@ -33,6 +33,6 @@ Armor: Any
 
 Prayers: Cleric knows the number of Prayers listed plus his Wisdom bonus.  Each level the cleric can learn a new prayer if he has a slot open and/or change 1 prayer for another of his choice.  He may only learn or switch to prayers that have a level equal to or less than his current cleric level.
 
-Turn Undead: A cleric can attempt to turn a number of hit dice of undead equal to twice his level. The undead targets must be in Close range. The cleric makes an attack with his Base Attack Bonus plus his Charisma modifier against each target's Willpower Defense. If the attack succeeds then the target is turned.  A turned target must attempt to flee or at least move as far away from the cleric as possible for 1d6 rounds.
+Turn Undead: A cleric can attempt to turn a number of hit dice of undead equal to twice his level. The undead targets must be in Close range. The cleric makes an attack with his Attack Bonus plus his Charisma modifier against each target's Willpower Defense. If the attack succeeds then the target is turned.  A turned target must attempt to flee or at least move as far away from the cleric as possible for 1d6 rounds.
 
 If the cleric has more than twice the hit dice of the undead, it is totally destroyed rather than being turned.
