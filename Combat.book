@@ -10,12 +10,13 @@ Long Rest:
 1 - All Hit Dice are recovered.
 2 - All Mana is recovered.
 3 - All Prayers are recovered.
+4 - Hit Dice are rolled for Hit Point recovery. (This doesn't expend the Hit Dice.)
 
 Defenses:
 Armor Class: 	10 + Dex + Armor
-Reflex:		10 + Dex
-Fortitude:	10 + Con
-Willpower:	10 + Wis
+Reflex:			10 + Dex
+Fortitude:		10 + Con
+Willpower:		10 + Wis
 
 Ranges:
 Engaged - Close - Long - Far Away

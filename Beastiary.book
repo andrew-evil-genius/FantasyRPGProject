@@ -69,13 +69,133 @@ In combat, drow are thoroughly ruthless, with little regard for fairness or merc
 Goblin
 ------------
 Intelligence:		Average
-Armor Class:		14
+Armor Class:		15
 Fortitude:			10
 Reflex:				12
 Willpower:			10
 Hit Dice:			1   (5hp)
 Attack Bonus:		+2 Sword, +3 Hand X-bow
 # Attacks:			1
-Damage				1d8 Sword, 1d4+2 Hand X-bow
-Special Attacks:	Faerie Fire, Poison
-Special Defenses:	Sneak +2, Perception +2
+Damage				1d6 Sword, 1d4+2 Shortbow
+
+Goblins prefer to dwell in caves, amid large and dense thickets of thistles and brambles, or in structures built and then abandoned by others. Very few goblins have the drive to build structures of their own. Coastlines are favored, as goblins are quite fond of sifting through junk and flotsam in an unending quest to find treasures among the refuse of more civilized races.
+
+Goblin hatred runs deep, and few things inspire their wrath more than gnomes (who have long fought against goblins), horses (who frighten goblins tremendously), and regular dogs (whom goblins regard as pale imitations of goblin dogs).
+
+Goblins are also quite superstitious, and treat magic with a fawning mixture of awe and fear. They have the habit of ascribing magic to the mundane as well, with fire and writing both taking on mystical power in goblin society. Fire is much loved by goblins for its capacity to wreak great destruction and because it doesn't require size or strength to wield, but written words are hated. Goblins believe that writing steals words out of your head, and as a result of this belief, goblins are universally illiterate.
+
+Goblins are voracious and can eat their body weight in food daily without growing fat. Goblin lairs always have numerous storerooms and larders. While they prefer human and gnome flesh, a goblin won't turn down any food—except, perhaps, vegetables.
+
+
+Orc
+------------
+Intelligence:		Low
+Armor Class:		13
+Fortitude:			13
+Reflex:				10
+Willpower:			9
+Hit Dice:			1   (8hp)
+Attack Bonus:		+3 Falchion, +1 Javelin
+# Attacks:			1
+Damage				1d8+2 Sword, 1d6 Javelin
+Special: An orc remains conscious and can continue fighting even if its hit point total is below 0. It is at -2 to all rolls and dies the first time it misses a Stabilization roll.
+
+Along with their brute strength and comparatively low intellect, the primary difference between orcs and the civilized humanoids is their attitude. As a culture, orcs are violent and aggressive, with the strongest ruling the rest through fear and brutality. They take what they want by force, and think nothing of slaughtering or enslaving entire villages when they can get away with it. They have little time for niceties or details, and their camps and villages tend to be filthy, ramshackle affairs filled with drunken brawls, pit fights, and other sadistic entertainment. Lacking the patience for farming and only able to shepherd the most robust and self-sufficient animals, orcs almost always find it easier to take what someone else has built than to create things themselves. They are arrogant and quick to anger when challenged, but only worry about honor so far as it directly benefits them to do so.
+
+An adult male orc is roughly 6 feet tall and 210 pounds. Orcs and humans interbreed frequently, though this is almost always the result of raids and slave-taking rather than consensual unions. Many orc tribes purposefully breed for half-orcs and raise them as their own, as the smarter progeny make excellent strategists and leaders for their tribes.
+
+
+Hobgoblin
+------------
+Intelligence:		Average
+Armor Class:		16
+Fortitude:			12
+Reflex:				12
+Willpower:			11
+Hit Dice:			1   (7 hp)
+Attack Bonus:		+2 Longsword, +2 Longbow
+# Attacks:			1
+Damage				1d8+1 Longsword, 1d6+1 Longbow
+
+Hobgoblins are militaristic and fecund, a combination that makes them quite dangerous in some regions. They breed quickly, replacing fallen members with new soldiers and keeping up their numbers despite the fortunes of war. They generally need little reason to declare war, but more often than not that reason is to capture new slaves—life as a slave in a hobgoblin lair is brutal and short, and new slaves are always needed to replace those who fall or are eaten.
+
+Of all the goblinoid races, the hobgoblin is by far the most civilized. They see the larger and more solitary bugbears as tools to be hired and used where appropriate, usually for specific missions involving assassination and stealth, and look upon their smaller goblin kin with a mix of shame and frustration. Hobgoblins admire goblin tenacity, yet their miniscule kindred's unpredictable nature and fondness for fire make them unwelcome additions to hobgoblin tribes or settlements. Nonetheless, most hobgoblin tribes include a small group of goblins, typically squatting in the most undesirable corners of the settlement.
+
+Many hobgoblin tribes combine their love of warfare with keen intellects. The science of siege engines, alchemy, and complex feats of engineering fascinate most hobgoblins, and those who are particularly skilled are treated as heroes and invariably secure high-ranking positions in the tribe. Slaves with analytical minds are quite valued, and as such raids on dwarven cities are commonplace.
+
+It is well known that hobgoblins mistrust and even despise magic, particularly arcane magic. Their shamans are treated with a mix of fear and respect, and are usually forced to live alone on the fringes of the tribe's lair. It is all but unheard of to find a hobgoblin practicing arcane magic, or as hobgoblins call it, “elf magic.” This is the root of their hatred of magic—the hobgoblins' hatred of elves.
+
+A hobgoblin stands 5 feet tall and weighs 160 pounds.
+
+Skeleton
+------------
+Intelligence:		Non
+Armor Class:		15
+Fortitude:			NA
+Reflex:				11
+Willpower:			10
+Hit Dice:			1   (5 hp)
+Attack Bonus:		+1 Misc. Weapon
+# Attacks:			1
+Damage				1d6 Misc. Weapon
+Special Defenses:	DR 5/blunt; Immune to cold
+
+Skeletons are the animated bones of the dead, brought to unlife through foul magic. While most skeletons are mindless automatons, they still possess an evil cunning imparted to them by their animating force—a cunning that allows them to wield weapons and wear armor.
+
+Zombie
+------------
+Intelligence:		Non
+Armor Class:		11
+Fortitude:			NA
+Reflex:				10
+Willpower:			10
+Hit Dice:			2 (10 hp)
+Attack Bonus:		+3 Fists
+# Attacks:			1
+Damage				1d6+2 Fists
+Special:			Zombies are slow. They can only do a move OR an action each round.
+
+Zombies are animated nastiness.
+
+Ghoul
+------------
+Intelligence:		Average
+Armor Class:		13
+Fortitude:			NA
+Reflex:				11
+Willpower:			11
+Hit Dice:			3 (15 hp)
+Attack Bonus:		+2 Bite, +2 Claw
+# Attacks:			1 bite + 2 claws
+Damage:				1d4+1 bite and claws (plus disease and paralysis)
+Special Attacks:	Paralysis (+3 vs Fort or paralyzed for 1d4 rounds. Elves immune.)
+					Disease (Ghoul Fever: +3 vs Fort 1d4 Con damage until cured. Onset 1 day.)
+
+Ghouls are undead that haunt graveyards and eat corpses. Legends hold that the first ghouls were either cannibalistic humans whose unnatural hunger dragged them back from death or humans who in life fed on the rotting remains of their kin and died (and were reborn) from the foul disease—the true source of these undead scavengers is unclear.
+
+Ghouls lurk on the edges of civilization (in or near cemeteries or in city sewers) where they can find ample supplies of their favorite food. Though they prefer rotting bodies and often bury their victims for a while to improve their taste, they eat fresh kills if they are hungry enough. Though most surface ghouls live primitively, rumors speak of ghoul cities deep underground led by priests who worship ancient cruel gods or strange demon lords of hunger. These “civilized” ghouls are no less horrific in their eating habits, and in fact the concept of a well-laid ghoul banquet table is perhaps even more horrifying than the concept of taking a meal fresh from the coffin.
+
+Gnoll
+------------
+Intelligence:		Low
+Armor Class:		14
+Fortitude:			11
+Reflex:				10
+Willpower:			10
+Hit Dice:			2 (12 hp)
+Attack Bonus:		+2 Spear
+# Attacks:			1
+Damage:				1d8+2 Spear
+Special Attacks:	Rage (After losing half hp, Gnoll attacks at +4 / 1d8+4)
+
+Gnolls are a race of hulking, humanoids that resemble hyenas in more than mere appearance; they show a striking affinity with the scavenging animals, to the point of keeping them as pets, and reflect many of the lesser creatures' behaviors.
+
+Gnolls are capable hunters, but are far happier to scavenge or steal a kill than to go out and track down prey. This laziness impels them to acquire slaves of whatever type is available, whom they force to dig warrens, gather supplies and water, and even hunt for their gnoll masters.
+
+Creatures other than hyenas and other gnolls are either meat or slaves, depending upon the temperament of the tribe. Even a dead or fallen comrade is a fresh meal for a gnoll, who might honor a distinguished tribe member with a brief prayer, or thoroughly cook one that has died of a wasting disease, but otherwise view a dead gnoll as little different from any other creature. The more “civilized” gnolls do not eat their prisoners, but instead keep them as slaves, either to defend or improve their lair or to trade with other tribes or slaver bands.
+
+Gnolls relish combat, but only when they have the obvious advantage of numbers. In other situations, they prefer to avoid combat except as a means of winning a kill from another hunter, or as a clever ambush to bring down a large meal. These hyena-men see no value in courage or valor, instead preferring to flee once it becomes clear that victory is not possible, noting that it is better to run with tail tucked away than to lose one's tail entirely.
+
+During combat, gnolls use a strange mixture of pack tactics and individual standoffs. If a gnoll feels that it is winning, it attempts to take down a weaker being rather than aiding its fellows. If the gnolls are struggling, they gang up on a powerful leader and try to take that creature down, in the hopes of forcing its allies to flee.
+
+Gnoll leaders are typically rangers, although clerics are highly regarded as well. Most gnolls find arcane magic difficult to master, and as a result it is relatively rare to see a gnoll bard, sorcerer, or wizard.
