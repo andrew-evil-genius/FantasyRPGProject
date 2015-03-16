@@ -5,7 +5,7 @@ Clerics are holy warriors for their faith. They have good combat abilities and a
 
 Prerequisite: Wisdom 9
 
-Level	AB	AD		HD		WS	OS	#Att		Prayers
+Level	AB	AD		HD			WS	OS	#Att	Prayers
 --------------------------------------------------------------
 1		+1	1d6		+1d8		3	3	1		1
 2		+1	1d6		+1d8		3	3	1		1
@@ -17,22 +17,22 @@ Level	AB	AD		HD		WS	OS	#Att		Prayers
 8		+3	1d6		+1d8		5	5	1		4
 9		+3	1d8		+1d8		5	5	1		5
 10		+4	1d8		+1d8		5	5	1		5
-11		+4	1d8		+2		5	5	3/2		6
-12		+4	1d8		+2		6	6	3/2		6
-13		+4	1d8		+2		6	6	3/2		7
-14		+5	1d8		+2		6	6	3/2		7
-15		+5	1d8		+2		6	6	3/2		8
-16		+5	1d8		+2		7	7	3/2		8
-17		+5	1d10		+2		7	7	3/2		9
-18		+6	1d10		+2		7	7	3/2		9
-19		+6	1d10		+2		7	7	3/2		10
-20		+6	1d10		+2		8	8	3/2		10
+11		+4	1d8		+2			5	5	3/2		6
+12		+4	1d8		+2			6	6	3/2		6
+13		+4	1d8		+2			6	6	3/2		7
+14		+5	1d8		+2			6	6	3/2		7
+15		+5	1d8		+2			6	6	3/2		8
+16		+5	1d8		+2			7	7	3/2		8
+17		+5	1d10	+2			7	7	3/2		9
+18		+6	1d10	+2			7	7	3/2		9
+19		+6	1d10	+2			7	7	3/2		10
+20		+6	1d10	+2			8	8	3/2		10
 
 
 Armor: Any
 
 Prayers: Cleric knows the number of Prayers listed plus his Wisdom bonus.  Each level the cleric can learn a new prayer if he has a slot open and/or change 1 prayer for another of his choice.  He may only learn or switch to prayers that have a level equal to or less than his current cleric level.
 
-Turn Undead: A cleric can attempt to turn a number of hit dice of undead equal to twice his level. The undead targets must be in Close range. The cleric makes an attack with his Attack Bonus plus his Charisma modifier against each target's Willpower Defense. If the attack succeeds then the target is turned.  A turned target must attempt to flee or at least move as far away from the cleric as possible for 1d6 rounds.
+Turn Undead: A cleric can attempt to turn a number of hit dice of undead equal to twice his level. The undead targets must be 6" of the cleric. All undead within range are considered in the target group. The cleric makes an attack with his Attack Bonus plus his Charisma modifier against each target's Willpower Defense starting with the lowest hit die undead. If the attack succeeds then the target is turned.  A turned target must attempt to flee or at least move as far away from the cleric as possible for 1d6 rounds. If the cleric has more than twice the hit dice of the undead, it is totally destroyed rather than being turned.
 
-If the cleric has more than twice the hit dice of the undead, it is totally destroyed rather than being turned.
+The cleric can only attempt to turn undead once per encounter per group of undead. After the turn attempt, the cleric may make a roll plus his Wisdom modifier vs a DC of 10 to see if he loses the Turn Undead ability for that day.  If he succeeds at the check, he may use Turn Undead normally. If he fails, he loses the ability until after the next long rest.

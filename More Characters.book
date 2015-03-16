@@ -136,3 +136,27 @@ Racial Features:
 +2 AC vs Ogres, Trolls, Ogre Magi, Giants and Titans
 +1 to Stonemason, Mining, Armorsmithing, Weaponsmithing or Blacksmithing (just 1)
 Darkvision
+
+------------------------------------------------------------------------------
+
+Barret of Oakhurst
+Human Fighter Level 1
+Str: 13 (+1)	Dex: 11 (0)		Con: 13 (+1)	
+Int: 11 (0)		Wis: 9 (-1)		Cha: 11 (0) 
+HP: 18			AB: +1			Mana: 0
+AC: 15 (16)		Fort: 10		Ref: 10		Will: 10
+
+Weapon Skills: Swords (2), Bastard Sword (spec), Two Handed Style
+Other Skills: Survival, Riding, Blindfighting
+
+Weapons:		AB	Damage 	#Att
+Bastard Sword	+3	1d8+5	3/2  (Two Handed)
+Bastard Sword	+3	1d8+3	3/2  (One Handed)
+
+Equipment: Bastard Sword, Chainmail, Shield, Backpack (50' rope, tent, 7 days rations, waterskin, 20 gold)
+
+Racial Features:
++1 to any single Attribute (Con)
++1 to any single Defense (Will)
+1 Additonal slot for Other Skills. (Blindfight)
++1 to any 2 Other Skills.(Survival, Riding)
